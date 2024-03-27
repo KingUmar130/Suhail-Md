@@ -1,19 +1,19 @@
- <h1 align="center"> Mcross Md </h1> 
-<p align="center"> Introducing Mcross_Md, It is designed to bring a whole new level of excitement to your boring WhatsApp use. </p>
+ <h1 align="center"> Bin Ali Md </h1> 
+<p align="center"> Introducing Bin Ali_Md, It is designed to bring a whole new level of excitement to your boring WhatsApp use. </p>
 
 <p align="center">
   <a href="https://youtube.com/@suhailtechinfo">
-    <img alt="Suhail docs" height="300" src="https://telegra.ph/file/e134e2b6fbc80e421cbe7.jpg">
+    <img alt="Suhail docs" height="300" src="https://telegra.ph/file/bc96cd0e8a1152e7125c8.jpg">
   </a>
 </p>
     
    
    
 <p align="center">
-  <a href="https://wa.me/2349042566473?text=Hi+Bro--+I+Need+Help.+I+messaged+you+from+Mcross-Md+Repo" target="_blank">
+  <a href="https://wa.me/2348163717090?text=Hi+Bro--+I+Need+Help.+I+messaged+you+from+Mcross-Md+Repo" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-  <a aria-label="Mcross_Md is free to use" href="https://github.com/SuhailTechInfo/Suhail-Md/blob/main/LICENCE" target="_blank">
+  <a aria-label="Bin Ali_Md is free to use" href="https://github.com/SuhailTechInfo/Suhail-Md/blob/main/LICENCE" target="_blank">
     <img alt="License: GPL-3" src="https://badges.frapsoft.com/os/gpl/gpl.png?v=103)](https://opensource.org/licenses/GPL-3.0/" target="_blank" />
   </a>
   <a aria-label="Mcross_Md is free to use" href="https://youtube.com/@suhailtechinfo" target="_blank">
@@ -28,7 +28,7 @@
 
 
 
-<p align="center"> Mcross MD whatsapp bot uses
+<p align="center"> Bin Ali MD whatsapp bot uses
   <a href="https://github.com/adiwajshing/Baileys">Multi-Device Baileys.</a>
 </p>
 <p align="center">
@@ -38,7 +38,7 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/SuhailTechInfo/Suhail-Md"><Mcross-Md</b></a> Support Deploy On...
+  <a href="https://github.com/SuhailTechInfo/Suhail-Md"><BinAli-Md</b></a> Support Deploy On...
 </p>
 
 <p align="center">
@@ -96,21 +96,21 @@
 
 
 - Star ⭐ repo if you like this bot.
-- If any problem, then [`+2349042566473`](https://wa.me/2349042566473)
+- If any problem, then [`+2348163717090`](https://wa.me/2348163717090)
 
 
 ### Thanks To
 - [KÎÑG M-ÇRØSS](https://github.com/M-cross1) 
 
 
-The MCROSS_Md is made available under the [GPL-3 license](https://github.com/SuhailTechInfo/Suhail-Md/blob/main/LICENCE).
+The BINALI_Md is made available under the [GPL-3 license](https://github.com/SuhailTechInfo/Suhail-Md/blob/main/LICENCE).
 
 
 <h2 align="center">  NOTICE
 </h2>
    
 ## 
-- *Mcross-Md is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
+- *BIN ALI-Md is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
 - *In that case, I'm not responsible for banning your account.*
 - *Use Mcross-Md at your own risk by keeping this warning in mind so make una no go blame me (KÎÑG M-ÇRØSS).*
 - [`heroku`]( https://dashboard.heroku.com/new?template=https://github.com/SuhailTechInfo/Suhail-Md)
