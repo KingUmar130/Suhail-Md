@@ -1,9 +1,9 @@
- <h1 align="center"> Bin Ali Md </h1> 
+ <h1 align="center"> 【✫𝗕𝗜𝗡 𝗔𝗟𝗜 𝗕𝗢𝗧✫】 </h1> 
 <p align="center"> Introducing Bin Ali_Md, It is designed to bring a whole new level of excitement to your boring WhatsApp use. </p>
 
 <p align="center">
   <a href="https://youtube.com/@suhailtechinfo">
-    <img alt="Suhail docs" height="300" src="https://telegra.ph/file/5b89a2aa9d465628e686c.mp4">
+    <img alt="Suhail docs" height="300" src="https://telegra.ph/file/dc9b5be8e35c6cd2e4213.jpg">
   </a>
 </p>
     
