@@ -1,5 +1,5 @@
  <h1 align="center"> 【✫𝗕𝗜𝗡 𝗔𝗟𝗜 𝗕𝗢𝗧✫】 </h1> 
-<p align="center"> Introducing Bin Ali_Md, It is designed to bring a whole new level of excitement to your boring WhatsApp use. </p>
+<p align="center"> INTRODUCING 【✫𝗕𝗜𝗡 𝗔𝗟𝗜 𝗕𝗢𝗧✫】 ELEVATE YOUR WHATSAPP EXPERIENCE WITH EXCITING NEW FEATURES AND ENHANCED FUNCTIONALITY. DISCOVER A RANGE OF TOOLS DESIGNED TO STREAMLINE YOUR COMMUNICATION AND MAKE STAYING CONNECTED MORE ENJOYABLE THAN EVER BEFORE. </p>
 
 <p align="center">
   <a href="https://youtube.com/@suhailtechinfo">
@@ -16,12 +16,12 @@
   <a aria-label="Bin Ali_Md is free to use" href="https://github.com/SuhailTechInfo/Suhail-Md/blob/main/LICENCE" target="_blank">
     <img alt="License: GPL-3" src="https://badges.frapsoft.com/os/gpl/gpl.png?v=103)](https://opensource.org/licenses/GPL-3.0/" target="_blank" />
   </a>
-  <a aria-label="Mcross_Md is free to use" href="https://youtube.com/@suhailtechinfo" target="_blank">
+  <a aria-label="Bin Ali_Md is free to use" href="https://youtube.com/@suhailtechinfo" target="_blank">
     <img alt="SuhailTechInfo Yt" src="https://img.shields.io/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
   </a>
 
 </p>
-<p align="center"><img src="https://profile-counter.glitch.me/{SuhailTechInfo}/count.svg" alt="SuhailTechInfo :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{BinaliTechInfo}/count.svg" alt="binaliTechInfo :: Visitor's Count" /></p>
 
 ---
 
@@ -100,7 +100,7 @@
 
 
 ### Thanks To
-- [KÎÑG M-ÇRØSS](https://github.com/M-cross1) 
+- [Bytecrafters](https://github.com/Bytecraf) 
 
 
 The BINALI_Md is made available under the [GPL-3 license](https://github.com/SuhailTechInfo/Suhail-Md/blob/main/LICENCE).
@@ -112,5 +112,5 @@ The BINALI_Md is made available under the [GPL-3 license](https://github.com/Suh
 ## 
 - *BIN ALI-Md is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
 - *In that case, I'm not responsible for banning your account.*
-- *Use Mcross-Md at your own risk by keeping this warning in mind so make una no go blame me (KÎÑG M-ÇRØSS).*
+- *Use bin Ali bot at your own risk by keeping this warning in mind so make una no go blame me (KÎÑG M-ÇRØSS).*
 - [`heroku`]( https://dashboard.heroku.com/new?template=https://github.com/SuhailTechInfo/Suhail-Md)
