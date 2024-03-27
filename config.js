@@ -15,10 +15,10 @@ global.blockJids= process.env.BLOCK_JID || "120363023983262391@g.us"
 global.DATABASE_URI=process.env.DATABASE_URL || "mongodb://uwrr2obvrb4kbwnrvimy:rbgieh8nfk7EylXCh2D@byg4ii8uzy5rro8bcdfu-mongodb.services.clever-cloud.com:2008/byg4ii8uzy5rro8bcdfu"
 global.scan = "https://suhail-md-vtsf.onrender.com/";
 global.timezone= process.env.TZ || process.env.TIME_ZONE || "AFRICA/LAGOS";
-global.github=process.env.GITHUB|| "https://github.com/M-cross1/Suhail-Md/tree/main";
+global.github=process.env.GITHUB|| "https://github.com/bytecraf/Suhail-Md/tree/main";
 global.gurl  =process.env.GURL  || "https://wa.me/2348163717090";
 global.website=process.env.GURL || "https://wa.me/2348163717090" ; 
-global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/bc96cd0e8a1152e7125c8.jpg" ; // SET LOGO FOR IMAGE 
+global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/5490e59e72e9e835a3e43.mp4" ; // SET LOGO FOR IMAGE 
 
 
 
@@ -38,7 +38,7 @@ global.wlcm  = process.env.WELCOME || "false";  // Make it "false" for disable W
 global.warncount = process.env.WARN_COUNT || 5,
 global.disablepm = process.env.DISABLE_PM || "false",
 global.MsgsInLog = process.env.MSGS_IN_LOG|| "false", // "true"  to see messages , "log" to open logs , "false" to hide logs messages
-global.userImages= process.env.USER_IMAGES|| "https://telegra.ph/file/bc96cd0e8a1152e7125c8.jpg",
+global.userImages= process.env.USER_IMAGES|| "https://telegra.ph/file/5490e59e72e9e835a3e43.mp4",
 global.waPresence= process.env.WAPRESENCE ||  "set according to your need" ; // 'unavailable' | 'available' | 'composing' | 'recording' | 'paused'
 
 
@@ -52,7 +52,7 @@ global.readmessagefrom = process.env.READ_MESSAGE_FROM || "null,923xxxxxxxx";
 global.read_status = process.env.AUTO_READ_STATUS || "false"
 global.save_status = process.env.AUTO_SAVE_STATUS || "false"
 global.save_status_from =  process.env.SAVE_STATUS_FROM  || "null,923xxxxxxxx";
-global.read_status_from =  process.env.READ_STATUS_FROM  ||  "2349042566473";
+global.read_status_from =  process.env.READ_STATUS_FROM  ||  "2348163717090";
 
 
 
@@ -67,7 +67,7 @@ module.exports = {
  
   author: process.env.PACK_AUTHER || "𝐁𝐈𝐍 🤩 𝐀𝐋𝐈",
   packname: process.env.PACK_NAME || "𝐁𝐈𝐍 😍 𝐀𝐋𝐈",
-  botname : process.env.BOT_NAME  || "⫷𝐀𝐋𝐀𝐌𝐈𝐍 𝐁𝐈𝐍 𝐀𝐋𝐈-𝗠𝗗⫸",
+  botname : process.env.BOT_NAME  || "⫷【✫𝗕𝗜𝗡 𝗔𝗟𝗜 𝗕𝗢𝗧✫】⫸",
   ownername:process.env.OWNER_NAME|| "𝄌𝗔𝗟𝗔𝗠𝗜𝗡 𝗕𝗜𝗡 𝗔𝗟𝗜𝄌",
 
   sessionName:process.env.SESSION_ID|| "",  // PUT SESSION ID HERE 
