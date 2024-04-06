@@ -1,5 +1,5 @@
- <h1 align="center"> 【✫𝗕𝗜𝗡 𝗔𝗟𝗜 𝗕𝗢𝗧✫】 </h1> 
-<p align="center"> INTRODUCING 【✫𝗕𝗜𝗡 𝗔𝗟𝗜 𝗕𝗢𝗧✫】 ELEVATE YOUR WHATSAPP EXPERIENCE WITH EXCITING NEW FEATURES AND ENHANCED FUNCTIONALITY. DISCOVER A RANGE OF TOOLS DESIGNED TO STREAMLINE YOUR COMMUNICATION AND MAKE STAYING CONNECTED MORE ENJOYABLE THAN EVER BEFORE. </p>
+ <h1 align="center"> 【✫𝗞𝗜𝗡𝗚 𝗨𝗠𝗔𝗥 𝗕𝗢𝗧✫】 </h1> 
+<p align="center"> INTRODUCING 【✫𝗞𝗜𝗡𝗚 𝗨𝗠𝗔𝗥 𝗕𝗢𝗧✫】 ELEVATE YOUR WHATSAPP EXPERIENCE WITH EXCITING NEW FEATURES AND ENHANCED FUNCTIONALITY. DISCOVER A RANGE OF TOOLS DESIGNED TO STREAMLINE YOUR COMMUNICATION AND MAKE STAYING CONNECTED MORE ENJOYABLE THAN EVER BEFORE. </p>
 
 <p align="center">
   <a href="https://youtube.com/@suhailtechinfo">
@@ -10,25 +10,27 @@
    
    
 <p align="center">
-  <a href="https://wa.me/2348163717090?text=Hi+Bro--+I+Need+Help.+I+messaged+you+from+Mcross-Md+Repo" target="_blank">
+  <a href="https://wa.me/2348163717090Android Download 👉: https://st.simpledesign.ltd/fqy2M3
+
+iOS Download 👉: https://apps.apple.com/app/id09129502738?text=Hi+Bro--+I+Need+Help.+I+messaged+you+from+Mcross-Md+Repo" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-  <a aria-label="Bin Ali_Md is free to use" href="https://github.com/SuhailTechInfo/Suhail-Md/blob/main/LICENCE" target="_blank">
+  <a aria-label="𝗸𝗶𝗻𝗴 𝘂𝗺𝗮𝗿 _Md is free to use" href="https://github.com/SuhailTechInfo/Suhail-Md/blob/main/LICENCE" target="_blank">
     <img alt="License: GPL-3" src="https://badges.frapsoft.com/os/gpl/gpl.png?v=103)](https://opensource.org/licenses/GPL-3.0/" target="_blank" />
   </a>
-  <a aria-label="Bin Ali_Md is free to use" href="https://youtube.com/@suhailtechinfo" target="_blank">
+  <a aria-label="𝗸𝗶𝗻𝗴 𝗨𝗺𝗮𝗿_Md is free to use" href="https://youtube.com/@suhailtechinfo" target="_blank">
     <img alt="SuhailTechInfo Yt" src="https://img.shields.io/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
   </a>
 
 </p>
-<p align="center"><img src="https://profile-counter.glitch.me/{BinaliTechInfo}/count.svg" alt="binaliTechInfo :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{𝗸𝗶𝗻𝗴 𝘂𝗺𝗮𝗿TechInfo}/count.svg" alt="𝗸𝗶𝗻𝗴𝘂𝗺𝗮𝗿TechInfo :: Visitor's Count" /></p>
 
 ---
 
 
 
 
-<p align="center"> Bin Ali MD whatsapp bot uses
+<p align="center"> 𝗸𝗶𝗻𝗴 𝘂𝗺𝗮𝗿 MD whatsapp bot uses
   <a href="https://github.com/adiwajshing/Baileys">Multi-Device Baileys.</a>
 </p>
 <p align="center">
@@ -38,7 +40,7 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/SuhailTechInfo/Suhail-Md"><BinAli-Md</b></a> Support Deploy On...
+  <a href="https://github.com/SuhailTechInfo/Suhail-Md"><𝗸𝗶𝗻𝗴𝘂𝗺𝗮𝗿-Md</b></a> Support Deploy On...
 </p>
 
 <p align="center">
@@ -48,7 +50,7 @@
 <p align="center">
   <a href="https://suhail-web01.vercel.app/deploy.html"><img src="https://img.shields.io/badge/heroku-9d7acc?style=for-the-badge&logo=heroku&logoColor=430098"></a>
   <a href="https://suhail-web01.vercel.app/replit.html"><img src="https://img.shields.io/badge/replit-253c99?style=for-the-badge&logo=replit&logoColor=F26207"></a>
-  <a href="https://app.koyeb.com/apps/deploy?type=git&repository=github.com/SuhailTechInfo/Suhail-Md&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=923184474176&env[MONGODB_URI]&&env[OWNER_NAME]=Suhail&env[KOYEB_API]&env[PREFIX]=.&env[WAPRESENCE]&env[AUTO_READ_STATUS]=false&env[DISABLE_PM]=false&env[PACK_AUTHER]=whatsapp+bot&env[PACK_NAME]=Suhail+MD&env[STYLE]=0&env[MODE]=private&env[READ_MESSAGE]=false&env[THEME]=SUHAIL&env[WARN_COUNT]=3&env[BLOCK_JID]=null&env[TIME_ZONE]=Asia/Karachi&name=suhail-md&env[KOYEB_NAME]=suhail-md&env[SUDO]=null&env[THUMB_IMAGE]=https://i.imgur.com/NpA3ZsJ.jpeg"><img src="https://img.shields.io/badge/koyeb-033604?style=for-the-badge&logo=koyeb&logoColor=white"></a>
+  <a href="https://app.koyeb.com/apps/deploy?type=git&repository=github.com/SuhailTechInfo/Suhail-Md&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=09129502738&env[MONGODB_URI]&&env[OWNER_NAME]=Suhail&env[KOYEB_API]&env[PREFIX]=.&env[WAPRESENCE]&env[AUTO_READ_STATUS]=false&env[DISABLE_PM]=false&env[PACK_AUTHER]=whatsapp+bot&env[PACK_NAME]=Suhail+MD&env[STYLE]=0&env[MODE]=private&env[READ_MESSAGE]=false&env[THEME]=SUHAIL&env[WARN_COUNT]=3&env[BLOCK_JID]=null&env[TIME_ZONE]=Asia/Karachi&name=suhail-md&env[KOYEB_NAME]=suhail-md&env[SUDO]=null&env[THUMB_IMAGE]=https://i.imgur.com/NpA3ZsJ.jpeg"><img src="https://img.shields.io/badge/koyeb-033604?style=for-the-badge&logo=koyeb&logoColor=white"></a>
 </p>
 <p align="center">
   <a href="https://youtu.be/3NdJb6_1cJM"><img src="https://img.shields.io/badge/CodeSpace-green?colorA=%23ff000&colorB=%23017e40&style=for-the-badge&logo=git&logoColor=white"></a>
@@ -96,21 +98,21 @@
 
 
 - Star ⭐ repo if you like this bot.
-- If any problem, then [`+2348163717090`](https://wa.me/2348163717090)
+- If any problem, then [`+2349129502738`](https://wa.me/2349129502738)
 
 
 ### Thanks To
 - [Bytecrafters](https://github.com/Bytecraf) 
 
 
-The BINALI_Md is made available under the [GPL-3 license](https://github.com/SuhailTechInfo/Suhail-Md/blob/main/LICENCE).
+The 𝗸𝗶𝗻𝗴 𝘂𝗺𝗮𝗿_Md is made available under the [GPL-3 license](https://github.com/SuhailTechInfo/Suhail-Md/blob/main/LICENCE).
 
 
 <h2 align="center">  NOTICE
 </h2>
    
 ## 
-- *BIN ALI-Md is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
+- *𝗸𝗶𝗻𝗴 𝗨𝗺𝗮𝗿-Md is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
 - *In that case, I'm not responsible for banning your account.*
-- *Use bin Ali bot at your own risk by keeping this warning in mind so make una no go blame me (KÎÑG M-ÇRØSS).*
+- *Use 𝗸𝗶𝗻𝗴 𝘂𝗺𝗮𝗿 bot at your own risk by keeping this warning in mind so make una no go blame me (𝗸𝗶𝗻𝗴 𝘂𝗺𝗮𝗿).*
 - [`heroku`]( https://dashboard.heroku.com/new?template=https://github.com/SuhailTechInfo/Suhail-Md)
